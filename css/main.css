@@ -28,6 +28,7 @@ body {
 
 header {
   background-color: #e2e2e2;
+  text-align: center;
 }
 
 a {
@@ -41,6 +42,7 @@ a {
 }
 
 li {
+  display: inline-block;
   list-style-type: none;
 }
 
