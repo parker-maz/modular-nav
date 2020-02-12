@@ -53,7 +53,7 @@ li {
   list-style-type: none;
 }
 
- li a:hover {
+nav a:hover {
   color: #fff;
   background-color: #0074d9;
 }
