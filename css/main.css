@@ -40,6 +40,10 @@ a {
     background-color: #0074d9;
 }
 
+li {
+  list-style-type: none;
+}
+
 a:hover {
   color: #fff;
   background-color: #0074d9;
